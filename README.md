@@ -28,7 +28,6 @@ I'm a passionate **Computer Science student at Anurag University (2022–2026)**
 </a> 
 </p>
 
----
 
 ### 🎨 **Frontend Development**
 <p align="left"> 
@@ -52,7 +51,6 @@ I'm a passionate **Computer Science student at Anurag University (2022–2026)**
 </a> 
 </p>
 
----
 
 ### ⚙️ **Backend Development**
 <p align="left"> 
@@ -67,7 +65,6 @@ I'm a passionate **Computer Science student at Anurag University (2022–2026)**
 </a> 
 </p>
 
----
 
 ### ☁️ **Tools & Platforms**
 <p align="left"> 
@@ -88,10 +85,12 @@ I'm a passionate **Computer Science student at Anurag University (2022–2026)**
 </a> 
 </p>
 
----
 
 ### 🤖 **Cloud & AI**
 <p align="left"> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </a> 
