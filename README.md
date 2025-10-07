@@ -1,14 +1,7 @@
-# 👋 Hi there, I'm Vishal Donkena
-
-🚀 **Full Stack Developer | Java & Python Enthusiast | AI & Cloud Learner**
-
-I'm a passionate **Computer Science student at Anurag University (2022–2026)**, deeply interested in building scalable web apps, exploring AI integrations, and solving real-world problems through technology. I love experimenting with frameworks like **Next.js**, **React**, and tools like **Gemini API**, bringing together creativity and code.
-
+#                   👋   Hi there, this is Vishal Donkena , a Computer Science student and enthusiast
 ---
 
 ## 🧑‍💻 About Me
-
-- 🎓 **B.Tech in Computer Science and Engineering** — Anurag University  
 - 🌱 Currently exploring: **AI-integrated Full Stack Development**  
 - 💡 Love creating interactive, meaningful, and accessible applications  
 - 🛠️ Interested in **DevOps, Cloud Computing, and Automation**  
@@ -104,9 +97,17 @@ I'm a passionate **Computer Science student at Anurag University (2022–2026)**
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [donkenavishal@gmail.com](mailto:donkenavishal@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vishaldonkena](http://www.linkedin.com/in/vishaldonkena)  
-- 🖥️ GitHub: [github.com/vishaldonkena](https://github.com/vishaldonkena)
+<p align="left"> 
+<a href="mailto:donkenavishal@gmail.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40" height="40"/> 
+</a> 
+<a href="https://www.linkedin.com/in/vishaldonkena" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
+</a>
+<a href="https://github.com/vishaldonkena" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+</a>
+</p>
 
 ---
 
