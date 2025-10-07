@@ -1,6 +1,4 @@
 #                   👋   Hi there, this is Vishal Donkena , a Computer Science student and enthusiast
----
-
 ## 🧑‍💻 About Me
 - 🌱 Currently exploring: **AI-integrated Full Stack Development**  
 - 💡 Love creating interactive, meaningful, and accessible applications  
